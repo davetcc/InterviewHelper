@@ -1,5 +1,5 @@
 # Interview Helper
-A series of Java classes the help with interview revision, covering
+A series of Java classes that help with interview revision, covering
 areas such as algorithms, graphs, trees and collections.
  
 Recently, a friend and I got into a discussion about this subject
@@ -16,4 +16,5 @@ website:
 Whats in this project:
 * Graph based depth first traversal
 * Graph based breadth first traversal
+* Very simple linked list implementation
 * Sorting using quickSort and bubbleSort
